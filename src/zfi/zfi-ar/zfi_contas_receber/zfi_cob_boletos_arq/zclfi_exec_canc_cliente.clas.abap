@@ -1,0 +1,13 @@
+class ZCLFI_EXEC_CANC_CLIENTE definition
+  public
+  create private .
+
+public section.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZCLFI_EXEC_CANC_CLIENTE IMPLEMENTATION.
+ENDCLASS.

@@ -4,7 +4,7 @@
   <asx:values>
    <VSEOCLASS>
     <CLSNAME>ZCLPP_LANCA_CONT_ESTOQUE</CLSNAME>
-    <LANGU>P</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>Executa rateio e lança contagem de estoque</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
