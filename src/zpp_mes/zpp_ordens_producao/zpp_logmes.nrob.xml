@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>ZPP_LOGMES</OBJECT>
+    <DOMLEN>NUMC10</DOMLEN>
+    <PERCENTAGE>5.0</PERCENTAGE>
+    <CHANGED_AT>20230425150850.669086</CHANGED_AT>
+    <CHANGED_BY>ANETO</CHANGED_BY>
+    <ENAME>ANETO</ENAME>
+    <EDATE>2023-04-25</EDATE>
+    <ETIME>12:08:50</ETIME>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>P</LANGU>
+    <OBJECT>ZPP_LOGMES</OBJECT>
+    <TXT>Log Mês</TXT>
+    <TXTSHORT>Log Mês</TXTSHORT>
+    <ENAME>ANETO</ENAME>
+    <EDATE>2023-04-25</EDATE>
+    <ETIME>12:08:50</ETIME>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
